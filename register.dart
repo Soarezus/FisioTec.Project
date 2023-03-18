@@ -1,8 +1,5 @@
 import 'package:fisiotec/homepage.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 
 class MyRegister extends StatelessWidget {
   const MyRegister({super.key});

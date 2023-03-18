@@ -1,8 +1,6 @@
 import 'package:fisiotec/homepage.dart';
 import 'package:fisiotec/register.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 
 class Mylogin extends StatelessWidget {
   Mylogin({super.key});

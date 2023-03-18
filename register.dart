@@ -39,7 +39,8 @@ class MyRegister extends StatelessWidget {
                   Text(
                     "Apenas um passo de uma melhor qualidade de vida!",
                     style: TextStyle(
-                      color: Colors.white
+                      color: Colors.white,
+                      fontSize: 15
                     ),
                   ),
                   SizedBox(height: 150),
